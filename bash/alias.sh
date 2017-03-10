@@ -1,2 +1,2 @@
-alias tmux="XTERM=sterm-256-color tmux"
+alias tmux="TERM=xterm-256color tmux"
 
